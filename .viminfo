@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q!
-|2,0,1643992293,,"q!"
 :wq!
-|2,0,1643952100,,"wq!"
+|2,0,1643993478,,"wq!"
+:q!
+|2,0,1643993247,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,26 +27,72 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/realtimecodeNEW/Jenkinsfile
-|4,48,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
-'1  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
-|4,49,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
-'2  16  6  ~/.bashrc
-|4,50,16,6,1643952100,"~/.bashrc"
-'3  1  0  ~/.bashrc
-|4,51,1,0,1643951883,"~/.bashrc"
-'4  1  0  ~/.bashrc
-|4,52,1,0,1643951883,"~/.bashrc"
-'5  145  0  /etc/tomcat/server.xml
-|4,53,145,0,1643820568,"/etc/tomcat/server.xml"
+'0  13  0  ~/.bashrc
+|4,48,13,0,1643993478,"~/.bashrc"
+'1  12  108  ~/.bashrc
+|4,49,12,108,1643993247,"~/.bashrc"
+'2  14  21  ~/.bashrc
+|4,50,14,21,1643993247,"~/.bashrc"
+'3  1  0  ~/realtimecodeNEW/Jenkinsfile
+|4,51,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
+'4  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,52,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+'5  12  155  ~/.bashrc
+|4,53,12,155,1643952100,"~/.bashrc"
+'6  12  155  ~/.bashrc
+|4,54,12,155,1643952100,"~/.bashrc"
+'7  16  6  ~/.bashrc
+|4,55,16,6,1643952100,"~/.bashrc"
+'8  16  6  ~/.bashrc
+|4,56,16,6,1643952100,"~/.bashrc"
+'9  1  0  ~/.bashrc
+|4,57,1,0,1643951883,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  13  0  ~/.bashrc
+|4,39,13,0,1643993478,"~/.bashrc"
+-'  12  108  ~/.bashrc
+|4,39,12,108,1643993249,"~/.bashrc"
+-'  14  21  ~/.bashrc
+|4,39,14,21,1643993247,"~/.bashrc"
+-'  16  6  ~/.bashrc
+|4,39,16,6,1643993216,"~/.bashrc"
+-'  1  0  ~/realtimecodeNEW/Jenkinsfile
+|4,39,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
+-'  1  0  ~/realtimecodeNEW/Jenkinsfile
+|4,39,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
+-'  1  0  ~/realtimecodeNEW/Jenkinsfile
+|4,39,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
 -'  1  0  ~/realtimecodeNEW/Jenkinsfile
 |4,39,1,0,1643992293,"~/realtimecodeNEW/Jenkinsfile"
 -'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
 |4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
 -'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
 |4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  54  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,54,0,1643953937,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
+-'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
+|4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
 -'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
 |4,39,1,0,1643953907,"/var/lib/jenkins/workspace/realise/Jenkinsfile"
 -'  1  0  /var/lib/jenkins/workspace/realise/Jenkinsfile
@@ -68,13 +114,17 @@
 -'  1  0  ~/.bashrc
 |4,39,1,0,1643951904,"~/.bashrc"
 -'  1  0  ~/.bashrc
-|4,39,1,0,1643951883,"~/.bashrc"
+|4,39,1,0,1643951904,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1643951904,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1643951883,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1643951883,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1643951883,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1643951883,"~/.bashrc"
 -'  145  0  /etc/tomcat/server.xml
 |4,39,145,0,1643820568,"/etc/tomcat/server.xml"
 -'  145  0  /etc/tomcat/server.xml
@@ -107,40 +157,112 @@
 |4,39,145,0,1643820568,"/etc/tomcat/server.xml"
 -'  145  0  /etc/tomcat/server.xml
 |4,39,145,0,1643820568,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
--'  1  0  /etc/tomcat/server.xml
-|4,39,1,0,1643820538,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
+-'  145  0  /etc/tomcat/server.xml
+|4,39,145,0,1643820568,"/etc/tomcat/server.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.bashrc
+	*	1643993474	0
+	"	13	0
+	^	13	0
+	.	13	0
+	+	12	154
+	+	12	148
+	+	12	171
+	+	12	112
+	+	17	29
+	+	13	0
 
 > ~/realtimecodeNEW/Jenkinsfile
 	*	1643992268	0
@@ -150,15 +272,6 @@
 	*	1643953933	0
 	"	54	0
 	^	54	0
-
-> ~/.bashrc
-	*	1643952097	0
-	"	16	6
-	^	16	7
-	.	16	6
-	+	16	5
-	+	15	30
-	+	16	6
 
 > /etc/tomcat/server.xml
 	*	1643820565	0

@@ -160,3 +160,53 @@ ls
 cat Jenkinsfile
 clear
 vi Jenkinsfile
+ls
+cd App
+ls
+cd ..
+git clone https://github.com/ashisnishanka/realtimecodeNEW.git
+ls
+cd realtimecodeNEW
+ls
+vi Jenkinsfile
+git push origin master
+ls
+cat Jenkinsfile2
+ls
+clear
+git push origin master
+git remote add origin https://github.com/msiressha/real_repo.git
+ls
+git add .
+git status
+git remote -v
+git push origin master
+cd ..
+ls
+rm -rf App
+ls
+rm -rf work
+rm -rf sireesha
+ls
+clear
+ls
+git init
+git add .
+git commit -m "files"
+git status
+git ls-files
+clear
+git remote add origin https://github.com/msiressha/real_repo.git
+git remote -v
+git push origin master
+cd /bin/mvn
+ls
+cd ?
+cd /
+ls
+cd /bin
+ls
+cat mvn
+cd 
+vi .bashrc
+source .bashrc
